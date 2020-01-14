@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/tris/devops/vagrant-lamp/products","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/tris/devops/vagrant-lamp","disabled":false,"__vagrantfile":true}}}
